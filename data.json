@@ -679,7 +679,7 @@
     ]
   },
   {
-    "uid": "2c744682-e4a7-4b3c-bce0-f567dd3a0d77",
+    "uid": "1a76d166-bb71-4a9b-a431-cde3f9427e7d",
     "title": "readme.md"
   },
   {
@@ -947,6 +947,23 @@
     ]
   },
   {
+    "uid": "0402fc75-eb47-43b1-956e-f46298bfcf35",
+    "icon": "https://cdn.jsdelivr.net/gh/IceRain-mvc/cdn/img/mini_program.svg",
+    "title": "小程序",
+    "children": [
+      {
+        "uid": "e4600035-4aeb-4fab-b32f-9c5e4f0c21eb",
+        "filterTitle": "01.微信小程序的理解优缺点",
+        "title": "01.说说你对微信小程序的理解？优缺点？.md"
+      },
+      {
+        "uid": "10b35d6e-f465-4832-951a-df9eee782bfe",
+        "filterTitle": "02.微信小程序的生命周期函数有哪些",
+        "title": "02.说说微信小程序的生命周期函数有哪些？.md"
+      }
+    ]
+  },
+  {
     "uid": "688859f8-d66a-4d45-b8a5-55640b0958fa",
     "icon": "https://cdn.jsdelivr.net/gh/IceRain-mvc/cdn/img/Webpack_active.svg",
     "title": "打包篇",
@@ -1092,6 +1109,11 @@
         "uid": "4d6ffd0b-05a9-443e-a026-354a004e71e2",
         "filterTitle": "17.分而治之、动态规划的理解区别",
         "title": "17.说说你对分而治之、动态规划的理解？区别？.md"
+      },
+      {
+        "uid": "a86f5d81-d7b2-4471-9f57-3abdd8c9eb85",
+        "filterTitle": "18.贪心算法、回溯算法的理解应用场景",
+        "title": "18.说说你对贪心算法、回溯算法的理解？应用场景？.md"
       }
     ]
   },
